@@ -1,5 +1,7 @@
 \documentclass[a4paper]{article}
-\title{Working title: Github}
+\title{lahh Github}
 \begin{document}
 \maketitle
+\section{methodology}
+
 \end{document}
